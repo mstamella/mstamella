@@ -1,4 +1,5 @@
 # Tammie Freeman
+
 Junior Linux System Administrator  
 CompTIA Security+ | CompTIA Linux+ | RHCSA (In Progress)
 
@@ -6,37 +7,44 @@ CompTIA Security+ | CompTIA Linux+ | RHCSA (In Progress)
 
 ## Linux System Administration Portfolio
 
-Hands-on **Red Hat Enterprise Linux administration projects** demonstrating system deployment, storage management, user security, containerized services, automation, repository management, and networking.
+Hands-on Red Hat Enterprise Linux (RHEL 9) administration projects demonstrating real-world system administration tasks including deployment, storage management, user security, containerized services, automation, repository management, and networking.
 
-Repository:  
-➡️ **Linux System Administration Portfolio**  
+---
+
+## 🔧 Featured Project
+
+### Linux System Administration Lab Portfolio
+
+End-to-end Linux administration labs aligned with RHCSA (EX200), covering core system administration tasks performed in enterprise environments.
+
+➡️ **View Full Project Portfolio:**  
 https://github.com/mstamella/linux-system-administration-labs
 
 ---
 
-## Core Skills
+## 💡 What This Portfolio Demonstrates
 
-- Red Hat Enterprise Linux administration
-- Linux system deployment
-- Storage management (GPT, LVM)
-- Multi-user security and permissions
-- Container management with Podman
-- Linux automation using systemd
-- Software and repository management
-- Linux network configuration
-
----
-
-## Certifications
-
-CompTIA Security+  
-CompTIA Linux+  
-Red Hat Certified System Administrator (RHCSA – in progress)
+- Red Hat Enterprise Linux (RHEL 9) administration  
+- System deployment and recovery  
+- Storage management (GPT, LVM, filesystems)  
+- Multi-user security and access control (SELinux, sudo, ACLs)  
+- Container management with Podman  
+- Linux automation using systemd  
+- Software and repository management  
+- Linux network configuration  
 
 ---
 
-## Education
+## 🎓 Certifications
 
-Master of Engineering (M.Eng.)
+- CompTIA Security+  
+- CompTIA Linux+  
+- Red Hat Certified System Administrator (RHCSA – In Progress)  
+
+---
+
+## 🎓 Education
+
+Master of Engineering (M.Eng.)  
 Cybersecurity Policy & Compliance
 
