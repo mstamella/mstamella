@@ -1,6 +1,6 @@
 # Tammie Freeman
 
-Junior Linux System Administrator  
+Linux System Administrator  
 CompTIA Security+ | CompTIA Linux+ | RHCSA (In Progress)
 
 ---
