@@ -15,7 +15,7 @@ Hands-on Red Hat Enterprise Linux (RHEL 9) administration projects demonstrating
 
 ### Linux System Administration Lab Portfolio
 
-End-to-end Linux administration labs aligned with RHCSA (EX200), covering core system administration tasks performed in enterprise environments.
+End-to-end Linux administration labs aligned with Red Hat Certified System Administrator (RHCSA EX200), covering core system administration tasks performed in enterprise environments.
 
 ➡️ **View Full Project Portfolio:**  
 https://github.com/mstamella/linux-system-administration-labs
